@@ -1,4 +1,4 @@
-# Deep Learning Graph Optimization Framework
+# GradientFlow Engine
 
 A NumPy reverse-mode autodiff framework with independently checked gradients and a small pure-expression optimizer.
 
@@ -44,7 +44,7 @@ No GPU backend, custom native matmul or automatic tensor-graph fusion. The expre
 
 **Prerequisites:** Python 3.10+ and NumPy (`numpy>=1.24,<3`). No API keys or external services are needed for the default sample.
 
-Download/extract this project or clone its repository, then open a terminal in the `autograd-graph-optimizer` folder. Create an isolated environment:
+Download/extract this project or clone its repository, then open a terminal in the `gradientflow-engine` folder. Create an isolated environment:
 
 ```sh
 python -m venv .venv
